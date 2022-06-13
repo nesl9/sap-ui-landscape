@@ -1,10 +1,10 @@
 <?xml version ="1.0" encoding="UTF-8"?>
-<Landscape xsi:noNamespaceSchemaLocation="SAPUILandscape.xsd" ×mlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" updated="2017-03-07T16:04:142" origin="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILanscape.xml" generator="SAP GUI for Java 7.50">
+<Landscape xsi:noNamespaceSchemaLocation="SAPUILandscape.xsd" ×mlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" updated="2017-03-07T16:04:142" origin="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml" generator="SAP GUI for Java 7.50">
 	<Configuration>
 		<Parameter value="http://acme.com/systemstatus" key="SystemStatusURL"/>
 	</Configuration>
 	<Includes>
-		<Include url="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILanscape.xml"/>
+		<Include url="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml"/>
 	</Includes>
 	<Services>
 		<Service type="SAPGUI" mode="1" server="appserv.acme.com:64001" msid="" name="ABC [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
