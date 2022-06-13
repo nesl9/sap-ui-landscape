@@ -4,7 +4,7 @@
 		<Parameter value="http://acme.com/systemstatus" key="SystemStatusURL"/>
 	</Configuration>
 	<Includes>
-		<Include url="http://acme.com/config/SAPUILandscapeIT.xmI"/>
+		<Include url="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILanscape.xml"/>
 	</Includes>
 	<Services>
 		<Service type="SAPGUI" mode="1" server="appserv.acme.com:64001" msid="" name="ABC [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
