@@ -21,9 +21,6 @@
 			</Node>
 		</Workspace>
 	</Workspaces>
-	<Messageservers>
-		<Messageserver name="ABC" uuid="8877f52f-8628-41a7-b1aa-770f9023ad14" description="Messageserver to acme DOT com" port="3601" host="files-3-1"/>
-	</Messageservers>
 	<Routers>
 		<Router name="Router" uuid="ac84a5ea-1737-406-b39e-e7a8d1ce08af" description="Router Test" router="/H/files-3-1/S/3200"/>
 	</Routers>
