@@ -1,11 +1,11 @@
 <?xml version ="1.0" encoding="UTF-8"?>
 <Landscape xsi:noNamespaceSchemaLocation="SAPUILandscape.xsd" ×mlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" updated="2022-06-13T16:04:142" origin="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml" generator="SAP GUI for Java 7.50">
 	<Services>
-		<Service type="SAPGUI" mode="1" server="files-3-1:3200" name="NLT [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
+		<Service type="SAPGUI" mode="1" server="files-3-1:3200" name="files-3" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 	</Services>
 	<Workspaces>
-		<Workspace name="NL gui" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="auto add gui" expanded="1">
-			<Node name="Web AS ABAP" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
+		<Workspace name="Nuve Platform Systems" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="Automatically added systems" expanded="1">
+			<Node name="Containers" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
 				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb883" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 			</Node>
 		</Workspace>
