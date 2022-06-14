@@ -7,14 +7,14 @@
 		<Include url="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml"/>
 	</Includes>
 	<Services>
-		<Service type="SAPGUI" mode="1" server="files-3-1:64001" msid="" name="NLT [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
+		<Service type="SAPGUI" mode="1" server="files-3-1:3200" msid="" name="NLT [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 		<Service type="SAPGUI" server="PUBLIC" msid="8877F52f-8628-41a7-b1aa-770f9023ad14" name="ABC [PUBLIC]" uuid="elab714e-50da-4cba-9454-5816d332d389">
 			<Memo xml:space="preserve">This is a Memo for a service with several lines</Memo>
 		</Service>
 		<Service type="SAPGUI" server="PUBLIC" msid="8877f52f-8628-41a7-b1aa-770f9023ad14" name="ABC [PUBLIC] SSO" uuid="239bddc2-19b8-4b71-a0f5-41327be38bd" sncop="9"/>
 	</Services>
 	<Workspaces default="73d7a3c8-89fc-408e-ab2c-8a0beee169a2">
-		<Workspace name="Default Workspace TEST 3" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="The default workspace created by TEST 3" expanded="1">
+		<Workspace name="NL TEST 3" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="NL TEST 3" expanded="1">
 			<Node name="Web AS ABAP" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
 				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb883" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 				<Item uuid="3d6fe003-61f8-4510-82c6-e0d20bbabc22" serviceid="elab714e-50da-4cba-9454-5816d332d389"/>
