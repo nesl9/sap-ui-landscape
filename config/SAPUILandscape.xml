@@ -7,7 +7,7 @@
 		<Include url="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml"/>
 	</Includes>
 	<Services>
-		<Service type="SAPGUI" mode="1" server="files-3-1:3200" msid="" name="NLT [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>1327be38bd" sncop="9"/>
+		<Service type="SAPGUI" mode="1" server="files-3-1:3200" msid="" name="NLT [appserv.acme.com]" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 	</Services>
 	<Workspaces default="73d7a3c8-89fc-408e-ab2c-8a0beee169a2">
 		<Workspace name="NL TEST 3" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="NL TEST 3" expanded="1">
@@ -16,4 +16,7 @@
 			</Node>
 		</Workspace>
 	</Workspaces>
+	<Routers>
+		<Router name="Router" uuid="ac84a5ea-1737-406-b39e-e7a8d1ce08af" description="Router Test" router="/H/files-3-1/S/3200"/>
+	</Routers>
 </Landscape>
