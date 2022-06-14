@@ -1,10 +1,5 @@
 <?xml version ="1.0" encoding="UTF-8"?>
 <Landscape xsi:noNamespaceSchemaLocation="SAPUILandscape.xsd" ×mlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" updated="2022-06-14T21:43:19Z" origin="https://raw.githubusercontent.com/nesl9/sap-ui-landscape/master/config/SAPUILandscape.xml" generator="SAP GUI for Java 7.50">
-	<Services>
-		<Service type="SAPGUI" mode="1" server="system-1:3200" name="system" user="DEVELOPER" language="EN" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0">
-			<Memo>SAP Image: abap752-ase160 (2022-06-09) | Machine Type: n2-standard-2</Memo>
-		</Service>
-	</Services>
 	<Workspaces>
 		<Workspace name="Nuve Platform" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="Automatically added systems" expanded="1">
 			<Node name="Development" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
@@ -12,4 +7,9 @@
 			</Node>
 		</Workspace>
 	</Workspaces>
+	<Services>
+		<Service type="SAPGUI" mode="1" server="system-1:3200" name="system" user="DEVELOPER" language="EN" uuid="eda7e634-8482-478-bd2e-094e7fbf90c0">
+			<Memo>SAP Image: abap752-ase160 (2022-06-09) | Machine Type: n2-standard-2</Memo>
+		</Service>
+	</Services>
 </Landscape>
