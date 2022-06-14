@@ -15,18 +15,9 @@
 	</Services>
 	<Workspaces default="73d7a3c8-89fc-408e-ab2c-8a0beee169a2">
 		<Workspace name="Default Workspace TEST 3" uuid="73d7a3c8-89fc-408e-ab2c-8a0beee169a2" description="The default workspace created by TEST 3" expanded="1">
-			<Node name="NetWeaver Business Client" uuid="9ee6daeb-64b5-4ede-ad02-8a878f56fd24">
-				<Item uuid="af8f5c85-276b-4565-ad47-837ec1af00a3" serviceid="60631fcf-c526-473b-aa4c-7653253aa79f" />
-				<Item uuid="fc9b539b-541d-499b-8afa-8266b888d808" serviceid="b2ba5ffa-e057-4693-9230-e6fbceec5fc5" />
-			</Node>
 			<Node name="Web AS ABAP" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
-				<Item uuid="32fb33d3-3659-4c0a-910d-cd5982f7a794" serviceid="239bddc2-19b8-4b71-a0f5-41327be38"/>
-				<Item uuid="3d6fe003-61f8-4510-82c6-e0d20bbabc22" serviceid="elab714e-50da-4cba-9454-5816d332d389"/>
 				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb883" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
-				<Item uuid="e84a1345-10e4-410e-a3fb-a4709ae9939f" serviceid="2cf6949e-bb58-49dd-a3c5-4939744dcc08"/>
-			</Node>
-			<Node name="Webdynpro" uuid="cd42e0bb-1026-4b2f-8ddO-e89faff5a9do">
-				<Item uuid="ab350d1e-ccb6-4678-837-a32d4ed8ba65" serviceid="77a7233d-4867-4d5e-8fc1-2bba2523fb17"/>
+				<Item uuid="3d6fe003-61f8-4510-82c6-e0d20bbabc22" serviceid="elab714e-50da-4cba-9454-5816d332d389"/>
 			</Node>
 		</Workspace>
 	</Workspaces>
