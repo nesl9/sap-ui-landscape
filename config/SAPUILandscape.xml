@@ -5,6 +5,7 @@
 			<Node name="Development" uuid="71498e51-0951-4bc3-9f8d-a059fbe1e2a2">
 				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb883" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c0"/>
 				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb884" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c1"/>
+				<Item uuid="8c51b4f0-cefc-497d-a0a9-b54b6bdb885" serviceid="eda7e634-8482-478-bd2e-094e7fbf90c2"/>
 			</Node>
 		</Workspace>
 	</Workspaces>
@@ -13,6 +14,9 @@
 			<Memo>SAP Image: abap752-ase160 (2022-06-09) | Machine Type: n2-standard-2</Memo>
 		</Service>
 		<Service type="SAPGUI" mode="1" server="github-runner-1:3200" name="github-runner" user="DEVELOPER" language="EN" uuid="eda7e634-8482-478-bd2e-094e7fbf90c1">
+			<Memo>SAP Image: abap752-ase160 (2022-06-09) | Test</Memo>
+		</Service>
+		<Service type="SAPGUI" mode="1" server="ip-address:3200" name="instance-name" user="NLARA" language="EN" uuid="eda7e634-8482-478-bd2e-094e7fbf90c2">
 			<Memo>SAP Image: abap752-ase160 (2022-06-09) | Test</Memo>
 		</Service>
 	</Services>
